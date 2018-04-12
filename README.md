@@ -1,0 +1,2 @@
+# qubitsmagic
+  ## Basic Algorithms
